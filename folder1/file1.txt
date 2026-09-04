@@ -1,1 +1,2 @@
 It is my new file in this folder. 
+Now I am happy Git, i include more things.
