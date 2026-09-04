@@ -1,1 +1,3 @@
 I don't like the last content. It is the newest one.
+
+It is a new line in the file.
